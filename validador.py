@@ -1,3 +1,7 @@
+__version__ = "0.0.1"
+__author__ = "GustavoOfSmach"
+__license__ = "Unlicense"
+
 print('Sua calculadora já está pronta! Comece a usar!')
 salario = 1000
 idade = 18
