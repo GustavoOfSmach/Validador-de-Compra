@@ -8,6 +8,3 @@ _Aprovada_
 
 _Desaprovada_
 ![image](https://github.com/GustavoOfSmach/Validador-de-Compra/assets/76416937/16d15151-71c7-42b3-9bb6-1542ca5bac9c)
-
-
-
